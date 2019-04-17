@@ -6,6 +6,8 @@
 
 This project was completed as part of the Udacity DSND, code provided by Udacity from their public github repo.
 
+To run the code you will need to add the bottleneck_features (VGG16 model to the bottleneck_features directory)
+
 ## Project Overview
 
 In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
